@@ -1,0 +1,24 @@
+Name four of the main data types in Python
+Why are these data types known as Python’s core data types?
+What does immutable mean and what three types of Python core data types are considered immutable?
+What does sequence mean and which three types of data fall into this category?
+What is polymorphism and why should you care?
+What is the Python interpreter prompt?
+How will you capitalize the first letter of a string?
+How do you insert an object at a given index in Python?
+How will you check if all characters in a string are alphanumeric?
+How would you declare a comment in Python?		
+What is slicing?
+What is the pass statement in Python?
+How would you convert a string into lowercase?
+How long can an identifier be in Python?
+Is Python case-sensitive?
+What are negative indices?
+Explain the ternary operator in Python.
+What constitutes “True” in Python?
+ What are the three main conditional statements in Python?
+What is Output?
+What gets printed?
+What Is The Difference Between Pass And Continue In Python? 
+When Should You Use The “Break” In Python? 
+
